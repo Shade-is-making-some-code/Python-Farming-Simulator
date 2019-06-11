@@ -1,0 +1,28 @@
+Changelog for Python Farming Simulator:
+
+Versions in the Pre-Alpha Category:
+
+[0.0.1]
+///////////////////////////////////
+added core varibles, for plant watering,
+having the plants, basic inventory items,
+atmosphere variables (light level, moisture level)
+shop prices and sell values, and player money.
+
+beginning to work on the primary functions.
+///////////////////////////////////
+
+[0.0.3]
+///////////////////////////////////
+added some of the core functions, like help, exit, buglist and shop,
+fixed a bug where the player would be spammed with meassages if they
+input anything that wasn't 'OK' in the exit dialogue,
+shop needs to be worked on heavily.
+///////////////////////////////////
+
+[0.0.5]
+///////////////////////////////////
+added all shop dialogue, working on
+shop processing and monetary/inventory
+gave the player 60 Credits to start.
+///////////////////////////////////
